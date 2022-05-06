@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 251, 0);
+}
+.citem{
+    width: 200px;
+    height: 300px;
+    background-color: #ffeec0;
+    margin: 20px;
+}
+.citembox{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}
